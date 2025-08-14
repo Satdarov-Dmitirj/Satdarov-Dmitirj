@@ -7,7 +7,7 @@ I love solving challenging problems, learning new things, and enjoying a good cu
 If you want to discuss technology, share experiences, or just chat over coffee — I’m always happy to connect.
 
 Telegram: @sataki_ru  
-[url=https://discord.gg/M5Qj7mNe4P]DISCORD[/url]
+DISCORD: https://discord.gg/M5Qj7mNe4P
 
 
 # 💻 Tech Stack:
