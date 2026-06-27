@@ -1,9 +1,7 @@
-# • Hi! I’m Dmitriy 👋  
+# • Hi! I'm Dmitriy 👋  
 A junior developer with big ambitions and an unshakable coffee addiction ☕
-
-I love tackling complex problems, diving into code like it’s a construction set, and creating new things.
-
-If you want to talk tech, share tips, or just chat over a cup of coffee — I’m always open to conversation.
+I love tackling complex problems, diving into code like it's a construction set, and creating new things.
+If you want to talk tech, share tips, or just chat over a cup of coffee — I'm always open to conversation.
 
 [Telegram](https://t.me/sataki_ru) | [Discord](https://discord.gg/M5Qj7mNe4P) | [VK](https://vk.ru/id799241744)
 
@@ -26,17 +24,13 @@ If you want to talk tech, share tips, or just chat over a cup of coffee — I’
 ---
 
 # • GitHub Stats  
-
 <img src="https://github-readme-stats.vercel.app/api?username=Satdarov-Dmitirj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="60%" style="display:block; margin-bottom: 10px;"/>  
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satdarov-Dmitirj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="60%" style="display:block; margin-bottom: 10px;"/>  
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=Satdarov-Dmitirj&theme=dark&hide_border=false" alt="GitHub Streak" width="60%" style="display:block;"/>
 
 ---
 
 # • Goals 
-
 Contribute to open-source projects  
 Build a full-scale microservices app  
 Explore AI-assisted coding
